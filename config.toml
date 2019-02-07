@@ -1,0 +1,16 @@
+baseURL = "https://parede.mtpereira.com/"
+languageCode = "pt-pt"
+title = "Parede"
+theme = "journal"
+publishDir = "docs"
+
+[author]
+name = "Manuel Tiago Pereira"
+
+[blackfriday]
+extensions = ["hardLineBreak"]
+hardLineBreak = true
+
+[params]
+description = "Da necessidade da criação criativa, do papel para a Parede."
+tagline = "Da necessidade da criação criativa, do papel para a Parede."

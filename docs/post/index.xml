@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Parede</title>
+    <link>https://parede.mtpereira.com/post/</link>
+    <description>Recent content in Posts on Parede</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Wed, 06 Feb 2019 21:51:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://parede.mtpereira.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recomeça</title>
+      <link>https://parede.mtpereira.com/post/recomeca/</link>
+      <pubDate>Wed, 06 Feb 2019 21:51:14 +0000</pubDate>
+      
+      <guid>https://parede.mtpereira.com/post/recomeca/</guid>
+      <description>Amargo sabor no palato
+persiste.
+O pôr-do-sol que não vi
+perdido.
+Fruto caído nunca provado
+apodrecido.
+Esforço último que nunca o é
+insiste.
+Entrega-te aos loucos!
+Atira as chaves ao rio!
+Consome a riqueza última,
+cai no abismo!
+Troca tudo por nada&amp;hellip;
+E quando acordares,
+ah, se acordares,
+recomeça.
+- 2019/02/02 @ Lisboa, Portugal</description>
+    </item>
+    
+  </channel>
+</rss>

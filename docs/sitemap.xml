@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://parede.mtpereira.com/post/inato/</loc>
+    <lastmod>2019-09-19T18:34:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parede.mtpereira.com/</loc>
+    <lastmod>2019-09-19T18:34:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parede.mtpereira.com/post/</loc>
+    <lastmod>2019-09-19T18:34:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://parede.mtpereira.com/post/um_sonho_cinzento/</loc>
     <lastmod>2019-02-23T18:47:35+00:00</lastmod>
   </url>
@@ -14,24 +29,10 @@
   
   <url>
     <loc>https://parede.mtpereira.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://parede.mtpereira.com/</loc>
-    <lastmod>2019-02-23T18:47:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://parede.mtpereira.com/post/</loc>
-    <lastmod>2019-02-23T18:47:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://parede.mtpereira.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

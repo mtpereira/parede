@@ -4,6 +4,7 @@ date: 2019-02-06T21:51:14Z
 author: "Manuel Tiago Pereira"
 draft: false
 ---
+
 Amargo sabor no palato
 persiste.
 
@@ -26,4 +27,4 @@ E quando acordares,
 ah, se acordares,
 recomeça.
 
-\- 2019/02/02 @ Lisboa, Portugal
+\- 2019-02-02 em Lisboa, Portugal

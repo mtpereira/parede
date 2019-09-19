@@ -6,10 +6,30 @@
     <description>Recent content on Parede</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Sat, 23 Feb 2019 18:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 18:34:00 +0100</lastBuildDate>
     
 	<atom:link href="https://parede.mtpereira.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inato</title>
+      <link>https://parede.mtpereira.com/post/inato/</link>
+      <pubDate>Thu, 19 Sep 2019 18:34:00 +0100</pubDate>
+      
+      <guid>https://parede.mtpereira.com/post/inato/</guid>
+      <description>A parede, sempre a parede.
+Não aquela em que esbarrei,
+antes aquela em que me tornei:
+imóvel e insaciável sede.
+Fracasso na penumbra invisível,
+górgona maior de serpentes carecida.
+Não estará a sina tecida
+pelo estatismo incompassível?
+Inata obra por deus querida nunca sonhada,
+que esses e outros divinos perdoem
+o inacabado
+- 2019-09-19 em Lisboa, Portugal</description>
+    </item>
     
     <item>
       <title>Um sonho cinzento</title>
@@ -33,7 +53,7 @@ Sonhos cinzentos não saciam a escrita,
 seja em prosa ou em poesia.
 Balde vazio num poço cheio de nada;
 antes afogar no oceano da vida.
-- 2017/09/27 @ Londres, Reino Unido</description>
+- 2017-09-27 em Londres, Reino Unido</description>
     </item>
     
     <item>
@@ -58,7 +78,7 @@ Troca tudo por nada&amp;hellip;
 E quando acordares,
 ah, se acordares,
 recomeça.
-- 2019/02/02 @ Lisboa, Portugal</description>
+- 2019-02-02 em Lisboa, Portugal</description>
     </item>
     
   </channel>

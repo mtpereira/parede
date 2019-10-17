@@ -1,0 +1,35 @@
+name: create-post-preview
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - content/post/*.md
+jobs:
+  take-screenshot:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout this commit
+        uses: actions/checkout@v1.0.0
+      - name: Setup Go
+        uses: actions/setup-go@master
+      - name: Run Magefile
+        uses: crazy-max/ghaction-mage@v1
+        with:
+          version: latest
+          args: publish
+      - name: Commit preview images
+        uses: stefanzweifel/git-auto-commit-action@v2.1.0
+        with:
+          commit_message: Add post preview
+          branch: ${{ github.head_ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    services:
+      hugo:
+        image: jojomi/hugo
+        ports:
+          - 1313:1313
+        volumes:
+          - ./:/src
+        options: hugo server

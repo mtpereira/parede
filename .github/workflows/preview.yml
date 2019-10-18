@@ -11,13 +11,19 @@ jobs:
     steps:
       - name: Checkout this commit
         uses: actions/checkout@v1.0.0
-      - name: Setup Go
-        uses: actions/setup-go@master
-      - name: Run Magefile
-        uses: crazy-max/ghaction-mage@v1.0.2
-        with:
-          version: latest
-          args: publish
+      - name: Install Mage
+        run: |
+          export GOPATH=$(go env GOPATH)
+          go get -u -d github.com/magefile/mage
+          cd $GOPATH/src/github.com/magefile/mage
+          go run bootstrap.go
+        env:
+          GOPATH: /home/runner/go
+      - name: Run Mage
+        run: |
+          export GOPATH=$(go env GOPATH)
+          export PATH=$PATH:$GOPATH/bin
+          $GOPATH/bin/mage publish
       - name: Commit preview images
         uses: stefanzweifel/git-auto-commit-action@v2.1.0
         with:

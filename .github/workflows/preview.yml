@@ -27,9 +27,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     services:
       hugo:
-        image: jojomi/hugo
+        image: jojomi/hugo:0.58
         ports:
           - 1313:1313
         volumes:
           - ./:/src
-        options: hugo server
+        env:
+          HUGO_WATCH: true

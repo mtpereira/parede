@@ -33,10 +33,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     services:
       hugo:
-        image: jojomi/hugo:0.58
+        image: jojomi/hugo:0.69.0
         ports:
           - 1313:1313
         volumes:
-          - ./:/src
+          - ${{ github.workspace }}/:/src
         env:
           HUGO_WATCH: true

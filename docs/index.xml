@@ -1,83 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parede</title>
-    <link>https://parede.mtpereira.com/</link>
+    <link>https://parede.art/</link>
     <description>Recent content on Parede</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 19 Sep 2019 18:34:00 +0100</lastBuildDate>
     
-	<atom:link href="https://parede.mtpereira.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://parede.art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inato</title>
-      <link>https://parede.mtpereira.com/post/inato/</link>
+      <link>https://parede.art/post/inato/</link>
       <pubDate>Thu, 19 Sep 2019 18:34:00 +0100</pubDate>
       
-      <guid>https://parede.mtpereira.com/post/inato/</guid>
-      <description>A parede, sempre a parede.
-Não aquela em que esbarrei,
-antes aquela em que me tornei:
-imóvel e insaciável sede.
-Fracasso na penumbra invisível,
-górgona maior de serpentes carecida.
-Não estará a sina tecida
-pelo estatismo incompassível?
-Inata obra por deus querida nunca sonhada,
-que esses e outros divinos perdoem
-o inacabado
+      <guid>https://parede.art/post/inato/</guid>
+      <description>A parede, sempre a parede. Não aquela em que esbarrei, antes aquela em que me tornei: imóvel e insaciável sede.
+Fracasso na penumbra invisível, górgona maior de serpentes carecida. Não estará a sina tecida pelo estatismo incompassível?
+Inata obra por deus querida nunca sonhada, que esses e outros divinos perdoem o inacabado
 - 2019-09-19 em Lisboa, Portugal</description>
     </item>
     
     <item>
       <title>Um sonho cinzento</title>
-      <link>https://parede.mtpereira.com/post/um_sonho_cinzento/</link>
+      <link>https://parede.art/post/um_sonho_cinzento/</link>
       <pubDate>Sat, 23 Feb 2019 18:47:35 +0000</pubDate>
       
-      <guid>https://parede.mtpereira.com/post/um_sonho_cinzento/</guid>
-      <description>Um sonho cinzento:
-reminiscências da consciência,
-vidas passadas nos primeiros
-círculos do sono.
-Desperto e sinto a necessidade
-do autoflagelo criativo:
-como seria reconfortante
-fazer do sonho escrita!
-Não sei o que sonho
-nem tão pouco o que
-sinto, houve-se antes
-rima nisto!
-Sonhos cinzentos não saciam a escrita,
-seja em prosa ou em poesia.
-Balde vazio num poço cheio de nada;
-antes afogar no oceano da vida.
+      <guid>https://parede.art/post/um_sonho_cinzento/</guid>
+      <description>Um sonho cinzento: reminiscências da consciência, vidas passadas nos primeiros círculos do sono.
+Desperto e sinto a necessidade do autoflagelo criativo: como seria reconfortante fazer do sonho escrita!
+Não sei o que sonho nem tão pouco o que sinto, houve-se antes rima nisto!
+Sonhos cinzentos não saciam a escrita, seja em prosa ou em poesia. Balde vazio num poço cheio de nada; antes afogar no oceano da vida.
 - 2017-09-27 em Londres, Reino Unido</description>
     </item>
     
     <item>
       <title>Recomeça</title>
-      <link>https://parede.mtpereira.com/post/recomeca/</link>
+      <link>https://parede.art/post/recomeca/</link>
       <pubDate>Wed, 06 Feb 2019 21:51:14 +0000</pubDate>
       
-      <guid>https://parede.mtpereira.com/post/recomeca/</guid>
-      <description>Amargo sabor no palato
-persiste.
-O pôr-do-sol que não vi
-perdido.
-Fruto caído nunca provado
-apodrecido.
-Esforço último que nunca o é
-insiste.
-Entrega-te aos loucos!
-Atira as chaves ao rio!
-Consome a riqueza última,
-cai no abismo!
-Troca tudo por nada&amp;hellip;
-E quando acordares,
-ah, se acordares,
-recomeça.
+      <guid>https://parede.art/post/recomeca/</guid>
+      <description>Amargo sabor no palato persiste.
+O pôr-do-sol que não vi perdido.
+Fruto caído nunca provado apodrecido.
+Esforço último que nunca o é insiste.
+Entrega-te aos loucos! Atira as chaves ao rio! Consome a riqueza última, cai no abismo! Troca tudo por nada&amp;hellip;
+E quando acordares, ah, se acordares, recomeça.
 - 2019-02-02 em Lisboa, Portugal</description>
     </item>
     
